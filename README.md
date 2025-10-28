@@ -1,6 +1,6 @@
 # streamlit_app_nexusyt
-Aplicación web para descargar Videos o Audio, de YouTube
-# 🎬 YT Downloader - Descargador de YouTube con Streamlit
+
+# 🎬 Nexus YT - Descargador de YouTube con Streamlit
 
 YT Downloader es una aplicación web sencilla desarrollada en **Python y Streamlit** que permite descargar **videos y audios (MP3)** desde YouTube de manera rápida y directa desde el navegador.
 
